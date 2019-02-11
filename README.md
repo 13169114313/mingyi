@@ -1,9 +1,6 @@
 # mingyi
 鸣艺国乐
 
-# mingyi
-鸣艺国乐
-
 鸣艺国乐管理系统，管理工作室课程与学员的日常情况。
 
 ## mingyi-master
