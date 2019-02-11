@@ -1,0 +1,7 @@
+com\mingyi\web\controller\system\SysRoleController.class
+com\mingyi\web\controller\system\SysUserController.class
+com\mingyi\web\MingYiServerInitializer.class
+com\mingyi\web\controller\common\SysSwaggerController.class
+com\mingyi\web\MingYiApplication.class
+com\mingyi\web\config\SwaggerConfig.class
+com\mingyi\web\controller\monitor\SysServerController.class

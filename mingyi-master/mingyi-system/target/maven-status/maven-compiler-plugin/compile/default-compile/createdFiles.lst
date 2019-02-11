@@ -1,0 +1,4 @@
+com\mingyi\system\entity\SysUser.class
+com\mingyi\system\mapper\SysUserMapper.class
+com\mingyi\system\service\impl\SysUserServiceImpl.class
+com\mingyi\system\service\SysUserService.class
